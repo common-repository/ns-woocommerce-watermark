@@ -1,0 +1,147 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-11-12 17:00+0100\n"
+"PO-Revision-Date: 2018-11-12 17:17+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ns-woocommerce-watermark\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-watermark-admin.php:22
+msgid "WATERMARK PREMIUM VERSION"
+msgstr "WATERMARK VERSIONE PREMIUM"
+
+#: woocommerce-watermark-admin.php:25
+msgid "ALL FREE VERSION FEATURES and:"
+msgstr "TUTTE LE FUNZIONI GRATIS e:"
+
+#: woocommerce-watermark-admin.php:26
+msgid "Choose the watermark position"
+msgstr "Scegliere la posizione del watermark"
+
+#: woocommerce-watermark-admin.php:27
+msgid "Add a margin to your watermark"
+msgstr "Aggiungere un margine al watermark"
+
+#: woocommerce-watermark-admin.php:28
+msgid "Repeat a watermark"
+msgstr "Ripetizione del watermark"
+
+#: woocommerce-watermark-admin.php:29
+msgid "Add background layer to watermark"
+msgstr "Aggiungi livello di sfondo al watermark"
+
+#: woocommerce-watermark-admin.php:30
+msgid "Choose background watermark color"
+msgstr "Scegli colore di sfondo del watermark"
+
+#: woocommerce-watermark-admin.php:31
+msgid "Choose background watermark opacity"
+msgstr "Scegli opacità di sfondo del watermark"
+
+#: woocommerce-watermark-admin.php:32
+msgid "Add a colored layer in all photo"
+msgstr "Aggiungi un livello colorato in tutte le foto"
+
+#: woocommerce-watermark-admin.php:33
+msgid "Choose background layer color"
+msgstr "Scegli il colore del livello di sfondo"
+
+#: woocommerce-watermark-admin.php:34
+msgid "Choose background layer opacity"
+msgstr "Scegli l’opacità del livello di sfondo"
+
+#: woocommerce-watermark-admin.php:35
+msgid ""
+"You can add a different watermark image for only thumbnail images (NEW "
+"FEATURES!)"
+msgstr ""
+"Aggiungere differenti watermark ad ogni immagine (NUOVA FUNZIONE!)"
+
+#: woocommerce-watermark-admin.php:46
+msgid "SUBSCRIBE TO OUR NEWSLETTER"
+msgstr "iscriviti alla nostra newsletter"
+
+#: woocommerce-watermark-admin.php:51
+msgid "STAY TUNED!"
+msgstr ""
+
+#: woocommerce-watermark-admin.php:51
+msgid "Thanks to use BTTA plugin! Submit your email to keep in touch!"
+msgstr ""
+"Grazie di usare BTTA! Inserisci la tua email per rimanere in contatto "
+"con noi!"
+
+#: woocommerce-watermark-admin.php:56
+msgid "SUBSCRIBE!"
+msgstr "ISCRIVITI!"
+
+#: woocommerce-watermark-admin.php:88
+msgid "NS WooCommerce Watermark settings"
+msgstr "Impostazione NS WooCommerce Watermark"
+
+#: woocommerce-watermark-admin.php:95
+msgid "Gd Library"
+msgstr "Libreria GD"
+
+#: woocommerce-watermark-admin.php:100 woocommerce-watermark-admin.php:113
+msgid "Ok"
+msgstr "Ok"
+
+#: woocommerce-watermark-admin.php:102
+msgid "Contact your admin server to install gd library on your server"
+msgstr ""
+"Contatta il proprietario del server per installare la libreria GD sul "
+"tuo server"
+
+#: woocommerce-watermark-admin.php:109
+msgid "Allow url fopen"
+msgstr "Permetti fopen url"
+
+#: woocommerce-watermark-admin.php:115
+msgid "Contact your admin server to turn on allow_url_fopen"
+msgstr "Contatta il proprietario del server per sbloccare allow_url_fopen"
+
+#: woocommerce-watermark-admin.php:122
+msgid "Enabled Plugin"
+msgstr "Plugin disabilitato "
+
+#: woocommerce-watermark-admin.php:130
+msgid "Enable"
+msgstr "Abilita"
+
+#: woocommerce-watermark-admin.php:131
+msgid "Disable"
+msgstr "Disabilita"
+
+#: woocommerce-watermark-admin.php:132
+msgid "Enable only for not registred user"
+msgstr "Abilita solo per gli utenti non registrati"
+
+#: woocommerce-watermark-admin.php:137
+msgid "Select a Watermark"
+msgstr "Seleziona un watermarker"
+
+#: woocommerce-watermark-admin.php:141
+msgid "Upload Image"
+msgstr "Carica immagine"
+
+#: woocommerce-watermark-admin.php:150
+msgid "Save Changes"
+msgstr "Salva modifiche"
+
+#: woocommerce-watermark.php:92
+msgid "Dismiss this notice"
+msgstr "Rimuovi questa notifica"
+
+#: woocommerce/single-product/product-image.php:68
+msgid "Placeholder"
+msgstr "Placeholder"

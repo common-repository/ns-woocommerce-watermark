@@ -1,0 +1,6 @@
+a.product-images span.featured-image {
+	display: none;
+}
+.crossfade-images {
+	display: none !important;
+}

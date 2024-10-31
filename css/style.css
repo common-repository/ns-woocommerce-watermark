@@ -1,0 +1,126 @@
+.ns-notice-dismissed {
+	display: none;
+}
+button.ns-notice-dismiss {
+	cursor: pointer;
+	background: #fff;
+    border: 0;
+    height: 30px;
+}
+
+button.ns-notice-dismiss:hover {
+	color: #6BAA01;
+}
+
+.verynsbigboxcontainer {
+	
+}
+
+.verynsbigbox {
+	width: 277px;
+	height: auto;
+	padding: 10px;
+	float: right;
+	margin-top: 8px;
+}
+
+.nsbigbox {
+	width:275px; 
+	height: auto;
+	background: #fff;
+	border: 1px solid #6BAA01;
+	border-radius: 7px;
+	color: #848481;
+}
+
+.titlensbigbox {
+	color: #fff;
+	width: 235px;
+	background: #6BAA01;
+	padding: 1px 20px;
+	text-align: center;
+	border-radius: 5px 5px 0px 0px;
+}
+
+.titlensbigbox h1{
+	font-size: 18px;
+}
+
+.contentnsbigbox {
+	width: 235px;
+	padding: 20px 20px 30px 20px;
+}
+
+.contentnsbigbox p {
+	font-size: 12px;
+	line-height: 18px;
+	margin-top: 5px;
+	margin-bottom: 20px;
+	text-align: justify;
+}
+
+a.linkBigBoxNS {
+	text-decoration: none;
+	color: #848481;
+}
+
+.buttonNsbigbox {
+	cursor: pointer;
+	height: 36px;
+	border: 1px solid #6BAA01;
+	background: #fff;
+	text-align: center;
+    margin: 0 auto;
+    padding: 15px 20px 0px 20px;
+    font-size: 18px;
+    border-radius: 7px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+.buttonNsbigbox:hover {
+	color: #fff;
+	height: 36px;
+	border: 1px solid #6BAA01;
+	background: #6BAA01;
+	text-align: center;
+    margin: 0 auto;
+    padding: 15px 20px 0px 20px;
+    font-size: 18px;
+}
+
+.buttonNsEmail {
+	width: 100%;
+	height: 52px;
+	line-height: 36px;
+	border: 1px solid #6BAA01;
+	background: #6BAA01;
+	padding: 0 20px;
+    font-size: 18px;
+	margin: 15px auto;
+    border-radius: 7px;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+/* additional classes */
+
+.nsbigboxtheme {
+	margin-top: 0px;
+	margin-bottom: 30px;
+	width:275px; 
+	height: auto;
+	background: #fff;
+	border: 1px solid #6BAA01;
+	border-radius: 7px;
+	color: #848481;
+}
+
+.imgnsbigbox {
+	width: 235px;
+	height: auto;
+}
